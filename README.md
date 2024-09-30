@@ -1,5 +1,3 @@
-
-
 <!-- saved from url=(0047)https://ronaldo67-messi.w3spaces.com/index.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"></head><body>Welcome to my webpage
 <title>This is my first website!</title>
